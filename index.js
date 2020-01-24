@@ -1,0 +1,1 @@
+let UsuarioNovo = new UserController('form-user-create', 'tbody');
